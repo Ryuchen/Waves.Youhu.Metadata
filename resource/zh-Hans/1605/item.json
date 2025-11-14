@@ -1,0 +1,1108 @@
+{
+  "role": {
+    "Id": 1605,
+    "QualityId": 5,
+    "RoleType": 1,
+    "IsTrial": false,
+    "Name": "漂泊者·湮灭",
+    "NickName": "存在异常，如有疑问请联系官方客服",
+    "Introduction": "身世不明的共鸣者，拥有吸收一切声音的力量。\n为了寻回记忆而踏上旅途。",
+    "Tag": [
+      2
+    ],
+    "ParentId": 0,
+    "Priority": 2,
+    "PropertyId": 1605,
+    "ShowProperty": [
+      2,
+      7,
+      10,
+      13,
+      8,
+      9
+    ],
+    "ElementId": 6,
+    "SkinId": 81001605,
+    "RoleHeadIconCircle": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHeadCircle256/T_IconRoleHeadCircle256_4_UI.T_IconRoleHeadCircle256_4_UI",
+    "RoleHeadIconLarge": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_4_UI.T_IconRoleHead256_4_UI",
+    "RoleHeadIconBig": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead150/T_IconRoleHead150_4.T_IconRoleHead150_4",
+    "Card": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_4_UI.T_IconRoleHead175_4_UI",
+    "RoleHeadIcon": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead80/T_IconRoleHead80_4_UI.T_IconRoleHead80_4_UI",
+    "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_zhujuenan_UI.T_IconRole_Pile_zhujuenan_UI",
+    "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
+    "RolePortrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleNanzhu.T_ActivityRoleNanzhu",
+    "SpilloverItem": [
+      {
+        "Key": 10001500,
+        "Value": 1
+      }
+    ],
+    "MeshId": 100022,
+    "UiMeshId": 100022,
+    "RoleBody": "MaleM",
+    "BreachModel": 730100,
+    "SpecialEnergyBarId": 160400,
+    "CameraConfig": "10000",
+    "CameraFloatHeight": 15,
+    "EntityProperty": 0,
+    "MaxLevel": 90,
+    "LevelConsumeId": 10001,
+    "BreachId": 1605,
+    "SkillId": 1604,
+    "SkillTreeGroupId": 1604,
+    "ResonanceId": 1604,
+    "ResonantChainGroupId": 1604,
+    "IsShow": false,
+    "ExchangeConsume": [
+      {
+        "Key": 10001500,
+        "Value": 1
+      }
+    ],
+    "InitWeaponItemId": 21020011,
+    "WeaponType": 2,
+    "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Dark.DA_Fx_UI_UIMap_Character_Dark",
+    "SkillLockDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
+    "UiScenePerformanceABP": "/Game/Aki/Character/Role/MaleM/Nanzhu/R2T1PlayerMaleMd10011/ABP_Performance_PlayerMale_PC.ABP_Performance_PlayerMale_PC_C",
+    "LockOnDefaultId": 1,
+    "LockOnLookOnId": 2,
+    "SkillEffectDA": "RoleSkillTabEffectLight",
+    "FootStepState": "FS_Heels",
+    "PartyId": 9,
+    "AttributesDescription": "",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_1501_UI.T_IconRup_1501_UI",
+    "ItemQualityId": 5,
+    "ObtainedShowDescription": "",
+    "NumLimit": 1,
+    "ShowInBag": true,
+    "WeaponScale": [
+      1,
+      1,
+      1
+    ],
+    "Intervene": false,
+    "CharacterVoice": "敬请期待",
+    "TrialRole": 100326,
+    "IsAim": false,
+    "RoleGuide": 5019,
+    "RedDotDisableRule": 0,
+    "SkinDamage": [
+      "/Game/Aki/Character/DA/DA_Nanzhu_BattleTex_Revert.DA_Nanzhu_BattleTex_Revert",
+      "/Game/Aki/Character/DA/DA_Nanzhu_BattleTex.DA_Nanzhu_BattleTex",
+      "/Game/Aki/Character/DA/DA_Nanzhu_BattleTex.DA_Nanzhu_BattleTex"
+    ],
+    "HideHuLu": false,
+    "EnableOperateSelfBgm": false
+  },
+  "quality": {
+    "Id": 5,
+    "Name": "SSR",
+    "Icon": "",
+    "QualityColor": "DEA544FF",
+    "Image": "/Game/Aki/UI/UIResources/Common/Atlas/SP_QualityGlodB.SP_QualityGlodB",
+    "GachaQualityImage": "/Game/Aki/UI/UIResources/Common/Image/IconLuckDarw/T_Luckdraw_S_UI.T_Luckdraw_S_UI",
+    "SpiloverCompensate": [
+      {
+        "Key": 50004,
+        "Value": 25
+      }
+    ]
+  },
+  "tags": [
+    {
+      "Id": 2,
+      "SortId": 1,
+      "TagName": "主力输出",
+      "TagIcon": "/Game/Aki/UI/UIResources/Common/Atlas/RoleLabel/SP_RoleLabelA2.SP_RoleLabelA2",
+      "TagNameColor": "ff8441",
+      "TagDesc": "拥有较强的输出能力"
+    }
+  ],
+  "skins": {
+    "default": {
+      "Id": 81001605,
+      "RoleId": 1605,
+      "SuitWeaponSkinId": 0,
+      "HeadId": 82001605,
+      "QualityId": 3,
+      "Name": "漂泊者·湮灭",
+      "TitleName": "远方旅人",
+      "SubDecName": "漂泊者-初始服饰",
+      "TypeDescription": "",
+      "AttributesDescription": "",
+      "BgDescription": "漂泊者常见的装束。这是他的起点，也将陪伴他至终点。",
+      "IconMiddle": "/Game/Aki/UI/UIResources/Common/Image/Skin/T_RoleSkinJiyan.T_RoleSkinJiyan",
+      "IconSmall": "",
+      "ItemAccess": [],
+      "SortIndex": 0,
+      "RedDotDisableRule": 0,
+      "ShowInBag": true,
+      "ObtainedShowDescription": "",
+      "Icon": "",
+      "FunctionDesc": "",
+      "FirstObtainDesc": "",
+      "Quality": 5,
+      "Tag": "",
+      "RoleHeadIconCircle": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHeadCircle256/T_IconRoleHeadCircle256_4_UI.T_IconRoleHeadCircle256_4_UI",
+      "RoleHeadIconLarge": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_4_UI.T_IconRoleHead256_4_UI",
+      "RoleHeadIconBig": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead150/T_IconRoleHead150_4.T_IconRoleHead150_4",
+      "Card": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_4_UI.T_IconRoleHead175_4_UI",
+      "RoleHeadIcon": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead80/T_IconRoleHead80_4_UI.T_IconRoleHead80_4_UI",
+      "PreviewRoleCard": "/Game/Aki/UI/UIResources/Common/Image/Skin/T_RoleSkinMale.T_RoleSkinMale",
+      "BuyShopPreviewRoleCard": "",
+      "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_zhujuenan_UI.T_IconRole_Pile_zhujuenan_UI",
+      "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
+      "SuitWeaponSkinColor": "",
+      "RoleObtainColor1": "",
+      "RoleObtainColor2": "",
+      "RolePortrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleNanzhu.T_ActivityRoleNanzhu",
+      "MeshId": 100022,
+      "UiMeshId": 100022,
+      "RoleBody": "MaleM",
+      "UiScenePerformanceABP": "/Game/Aki/Character/Role/MaleM/Nanzhu/R2T1PlayerMaleMd10011/ABP_Performance_PlayerMale_PC.ABP_Performance_PlayerMale_PC_C",
+      "FootStepState": "FS_Heels",
+      "PayShopPreviewRoleTexturePath": "",
+      "PayShopPreviewRoleTextureBgPath": "",
+      "PayShopPreviewWeaponTexturePath": "",
+      "PayShopPreviewBuyRoleTexturePath": "",
+      "PayShopPreviewBuyRoleSuitWeaponTexturePath": "",
+      "ShareTexturePath": "",
+      "SpineSkeletonData": "0",
+      "SmallSpineAtlas": "0",
+      "SkinBuff": []
+    },
+    "all": [
+      {
+        "Id": 81001605,
+        "RoleId": 1605,
+        "SuitWeaponSkinId": 0,
+        "HeadId": 82001605,
+        "QualityId": 3,
+        "Name": "漂泊者·湮灭",
+        "TitleName": "远方旅人",
+        "SubDecName": "漂泊者-初始服饰",
+        "TypeDescription": "",
+        "AttributesDescription": "",
+        "BgDescription": "漂泊者常见的装束。这是他的起点，也将陪伴他至终点。",
+        "IconMiddle": "/Game/Aki/UI/UIResources/Common/Image/Skin/T_RoleSkinJiyan.T_RoleSkinJiyan",
+        "IconSmall": "",
+        "ItemAccess": [],
+        "SortIndex": 0,
+        "RedDotDisableRule": 0,
+        "ShowInBag": true,
+        "ObtainedShowDescription": "",
+        "Icon": "",
+        "FunctionDesc": "",
+        "FirstObtainDesc": "",
+        "Quality": 5,
+        "Tag": "",
+        "RoleHeadIconCircle": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHeadCircle256/T_IconRoleHeadCircle256_4_UI.T_IconRoleHeadCircle256_4_UI",
+        "RoleHeadIconLarge": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_4_UI.T_IconRoleHead256_4_UI",
+        "RoleHeadIconBig": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead150/T_IconRoleHead150_4.T_IconRoleHead150_4",
+        "Card": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_4_UI.T_IconRoleHead175_4_UI",
+        "RoleHeadIcon": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead80/T_IconRoleHead80_4_UI.T_IconRoleHead80_4_UI",
+        "PreviewRoleCard": "/Game/Aki/UI/UIResources/Common/Image/Skin/T_RoleSkinMale.T_RoleSkinMale",
+        "BuyShopPreviewRoleCard": "",
+        "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_zhujuenan_UI.T_IconRole_Pile_zhujuenan_UI",
+        "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
+        "SuitWeaponSkinColor": "",
+        "RoleObtainColor1": "",
+        "RoleObtainColor2": "",
+        "RolePortrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleNanzhu.T_ActivityRoleNanzhu",
+        "MeshId": 100022,
+        "UiMeshId": 100022,
+        "RoleBody": "MaleM",
+        "UiScenePerformanceABP": "/Game/Aki/Character/Role/MaleM/Nanzhu/R2T1PlayerMaleMd10011/ABP_Performance_PlayerMale_PC.ABP_Performance_PlayerMale_PC_C",
+        "FootStepState": "FS_Heels",
+        "PayShopPreviewRoleTexturePath": "",
+        "PayShopPreviewRoleTextureBgPath": "",
+        "PayShopPreviewWeaponTexturePath": "",
+        "PayShopPreviewBuyRoleTexturePath": "",
+        "PayShopPreviewBuyRoleSuitWeaponTexturePath": "",
+        "ShareTexturePath": "",
+        "SpineSkeletonData": "0",
+        "SmallSpineAtlas": "0",
+        "SkinBuff": []
+      }
+    ]
+  },
+  "special_energy_bar": null,
+  "morph": [],
+  "audio": [],
+  "autorole": null,
+  "element": {
+    "Id": 6,
+    "Describe": "存在异常，如有疑问请联系官方客服",
+    "Name": "湮灭",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconElementRound/T_IconElementDark1_UI.T_IconElementDark1_UI",
+    "Icon2": "/Game/Aki/UI/UIResources/Common/Image/IconElementRound/T_IconElementDark1_UI.T_IconElementDark1_UI",
+    "Icon3": "/Game/Aki/UI/UIResources/Common/Image/IconElement128/T_IconElementDark1.T_IconElementDark1",
+    "Icon4": "/Game/Aki/UI/UIResources/Common/Image/IconElement128/T_IconElementDark.T_IconElementDark",
+    "Icon4Pure": "/Game/Aki/UI/UIResources/Common/Image/IconElement128/T_IconElementDark1.T_IconElementDark1",
+    "Icon5": "/Game/Aki/UI/UIResources/Common/Image/IconElement/T_IconElementDark1.T_IconElementDark1",
+    "Icon6": "/Game/Aki/UI/UIResources/Common/Image/IconElement/T_IconElementDark2.T_IconElementDark2",
+    "Icon7": "/Game/Aki/UI/UIResources/Common/Image/IconElement/T_IconElementDark3.T_IconElementDark3",
+    "ElementChangeTexture": "/Game/Aki/UI/UIResources/UiRole/Image/T_RoleElementDark_UI.T_RoleElementDark_UI",
+    "ElementEffectColor": "ffa4d1FF",
+    "ElementColor": "E649A6FF",
+    "SkillTreeEffectColor": "C98BB3FF",
+    "SkillTreeIconColor": "FFFFFFFF",
+    "SkillTreeLineColor": "C98BB3FF",
+    "Effect": "/Game/Aki/Effect/UI/Niagaras/Common/NS_Fx_LGUI_Attribute.NS_Fx_LGUI_Attribute",
+    "EffectTexturePath": "/Game/Aki/Effect/UI/Textures/Common/T_UI_Wenli_Dark.T_UI_Wenli_Dark",
+    "GachaElementBgSpritePath": "/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_ElementBg6.SP_ElementBg6",
+    "GachaSpritePath": "/Game/Aki/UI/UIResources/Common/Image/IconElementShine/T_IconElementDark2_UI.T_IconElementDark2_UI",
+    "UltimateSkillColor": "E649A6FF",
+    "SkillEffectColor": "B0357EFF",
+    "SkillButtonEffectPath": "/Game/Aki/Effect/UI/Niagaras/Common/NS_Fx_LGUI_Fight_R.NS_Fx_LGUI_Fight_R",
+    "ElementBallEffectPath": "/Game/Aki/Effect/UI/Niagaras/Common/NS_Fx_LGUI_ElementBall_Dark1.NS_Fx_LGUI_ElementBall_Dark1",
+    "AudioEvent": "ui_common_element_dark"
+  },
+  "base_property": null,
+  "skill": [],
+  "weapon": {
+    "ItemId": 21020011,
+    "IsShow": true,
+    "WeaponName": "教学迅刀",
+    "QualityId": 1,
+    "WeaponType": 2,
+    "ModelId": 21020011,
+    "TransformId": 2,
+    "Models": [
+      21020011,
+      21120011
+    ],
+    "ModelsIndex": [
+      0,
+      1
+    ],
+    "ResonLevelLimit": 5,
+    "FirstPropId": {
+      "Id": 7,
+      "Value": 20,
+      "IsRatio": false
+    },
+    "FirstCurve": 1,
+    "SecondPropId": {
+      "Id": 10007,
+      "Value": 0.025499999523162842,
+      "IsRatio": true
+    },
+    "SecondCurve": 2,
+    "ResonId": 2001,
+    "LevelId": 1,
+    "BreachId": 21020011,
+    "Desc": "攻击提升{0}。",
+    "DescParams": [
+      {
+        "ArrayString": [
+          "4%",
+          "5%",
+          "6%",
+          "7%",
+          "8%"
+        ]
+      }
+    ],
+    "TypeDescription": "武器",
+    "AttributesDescription": "用于训练与教学的迅刀，只具备基础的功能。",
+    "BgDescription": "用于训练与教学的迅刀，只具备基础的功能。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21020011_UI.T_IconWeapon21020011_UI",
+    "IconMiddle": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21020011_UI.T_IconWeapon160_21020011_UI",
+    "IconSmall": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21020011_UI.T_IconWeapon80_21020011_UI",
+    "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04AS.SM_Pro_Roc_04AS",
+    "MaxCapcity": 999999999,
+    "ItemAccess": [],
+    "ObtainedShow": 1,
+    "ObtainedShowDescription": "用于训练与教学的迅刀，只具备基础的功能。",
+    "NumLimit": 1,
+    "ShowInBag": true,
+    "SortIndex": 0,
+    "ResonanceIcon": "",
+    "HiddenTime": 10,
+    "Destructible": true,
+    "RedDotDisableRule": 0,
+    "HandBookTrialId": 21020001
+  },
+  "lockon_default": {
+    "Id": 1,
+    "Distance": 800,
+    "UpDistance": 1000,
+    "DownDistance": 1000,
+    "SectorRadius": 0,
+    "SectorAngle": 0,
+    "ToleranceAngle": 22.5
+  },
+  "lockon_look": {
+    "Id": 2,
+    "Distance": 2500,
+    "UpDistance": 2500,
+    "DownDistance": 1500,
+    "SectorRadius": 0,
+    "SectorAngle": 0,
+    "ToleranceAngle": 22.5
+  },
+  "skill_tree_nodes": [
+    {
+      "Id": 273,
+      "NodeIndex": 1,
+      "NodeGroup": 1604,
+      "ParentNodes": [],
+      "NodeType": 2,
+      "Coordinate": 1,
+      "Condition": [],
+      "SkillId": 1001701,
+      "PropertyNodeTitle": "",
+      "PropertyNodeDescribe": "",
+      "PropertyNodeParam": [],
+      "PropertyNodeIcon": "",
+      "Property": [],
+      "Consume": [
+        {
+          "Key": 43020032,
+          "Value": 2
+        },
+        {
+          "Key": 41100022,
+          "Value": 3
+        },
+        {
+          "Key": 2,
+          "Value": 3900
+        }
+      ],
+      "UnLockCondition": 0
+    },
+    {
+      "Id": 274,
+      "NodeIndex": 2,
+      "NodeGroup": 1604,
+      "ParentNodes": [],
+      "NodeType": 2,
+      "Coordinate": 2,
+      "Condition": [],
+      "SkillId": 1001702,
+      "PropertyNodeTitle": "",
+      "PropertyNodeDescribe": "",
+      "PropertyNodeParam": [],
+      "PropertyNodeIcon": "",
+      "Property": [],
+      "Consume": [
+        {
+          "Key": 43020032,
+          "Value": 2
+        },
+        {
+          "Key": 41100022,
+          "Value": 3
+        },
+        {
+          "Key": 2,
+          "Value": 3900
+        }
+      ],
+      "UnLockCondition": 0
+    },
+    {
+      "Id": 275,
+      "NodeIndex": 3,
+      "NodeGroup": 1604,
+      "ParentNodes": [],
+      "NodeType": 2,
+      "Coordinate": 3,
+      "Condition": [],
+      "SkillId": 1001703,
+      "PropertyNodeTitle": "",
+      "PropertyNodeDescribe": "",
+      "PropertyNodeParam": [],
+      "PropertyNodeIcon": "",
+      "Property": [],
+      "Consume": [
+        {
+          "Key": 43020032,
+          "Value": 2
+        },
+        {
+          "Key": 41100022,
+          "Value": 3
+        },
+        {
+          "Key": 2,
+          "Value": 3900
+        }
+      ],
+      "UnLockCondition": 0
+    },
+    {
+      "Id": 276,
+      "NodeIndex": 4,
+      "NodeGroup": 1604,
+      "ParentNodes": [
+        7
+      ],
+      "NodeType": 3,
+      "Coordinate": 2,
+      "Condition": [
+        1
+      ],
+      "SkillId": 1001704,
+      "PropertyNodeTitle": "",
+      "PropertyNodeDescribe": "",
+      "PropertyNodeParam": [],
+      "PropertyNodeIcon": "",
+      "Property": [],
+      "Consume": [
+        {
+          "Key": 43020032,
+          "Value": 2
+        },
+        {
+          "Key": 41100022,
+          "Value": 3
+        },
+        {
+          "Key": 2,
+          "Value": 3900
+        }
+      ],
+      "UnLockCondition": 0
+    },
+    {
+      "Id": 277,
+      "NodeIndex": 5,
+      "NodeGroup": 1604,
+      "ParentNodes": [
+        4
+      ],
+      "NodeType": 3,
+      "Coordinate": 3,
+      "Condition": [
+        1
+      ],
+      "SkillId": 1001705,
+      "PropertyNodeTitle": "",
+      "PropertyNodeDescribe": "",
+      "PropertyNodeParam": [],
+      "PropertyNodeIcon": "",
+      "Property": [],
+      "Consume": [
+        {
+          "Key": 43020032,
+          "Value": 2
+        },
+        {
+          "Key": 41100022,
+          "Value": 3
+        },
+        {
+          "Key": 2,
+          "Value": 3900
+        }
+      ],
+      "UnLockCondition": 0
+    },
+    {
+      "Id": 278,
+      "NodeIndex": 6,
+      "NodeGroup": 1604,
+      "ParentNodes": [],
+      "NodeType": 2,
+      "Coordinate": 4,
+      "Condition": [],
+      "SkillId": 1001706,
+      "PropertyNodeTitle": "",
+      "PropertyNodeDescribe": "",
+      "PropertyNodeParam": [],
+      "PropertyNodeIcon": "",
+      "Property": [],
+      "Consume": [
+        {
+          "Key": 43020032,
+          "Value": 2
+        },
+        {
+          "Key": 41100022,
+          "Value": 3
+        },
+        {
+          "Key": 2,
+          "Value": 3900
+        }
+      ],
+      "UnLockCondition": 0
+    },
+    {
+      "Id": 279,
+      "NodeIndex": 7,
+      "NodeGroup": 1604,
+      "ParentNodes": [],
+      "NodeType": 1,
+      "Coordinate": 1,
+      "Condition": [],
+      "SkillId": 1001707,
+      "PropertyNodeTitle": "",
+      "PropertyNodeDescribe": "",
+      "PropertyNodeParam": [],
+      "PropertyNodeIcon": "",
+      "Property": [],
+      "Consume": [
+        {
+          "Key": 43020032,
+          "Value": 2
+        },
+        {
+          "Key": 41100022,
+          "Value": 3
+        },
+        {
+          "Key": 2,
+          "Value": 3900
+        }
+      ],
+      "UnLockCondition": 0
+    },
+    {
+      "Id": 280,
+      "NodeIndex": 8,
+      "NodeGroup": 1604,
+      "ParentNodes": [],
+      "NodeType": 3,
+      "Coordinate": 1,
+      "Condition": [],
+      "SkillId": 1001709,
+      "PropertyNodeTitle": "",
+      "PropertyNodeDescribe": "",
+      "PropertyNodeParam": [],
+      "PropertyNodeIcon": "",
+      "Property": [],
+      "Consume": [
+        {
+          "Key": 43020032,
+          "Value": 2
+        },
+        {
+          "Key": 41100022,
+          "Value": 3
+        },
+        {
+          "Key": 2,
+          "Value": 3900
+        }
+      ],
+      "UnLockCondition": 0
+    },
+    {
+      "Id": 287,
+      "NodeIndex": 15,
+      "NodeGroup": 1604,
+      "ParentNodes": [
+        11
+      ],
+      "NodeType": 4,
+      "Coordinate": 2,
+      "Condition": [
+        1
+      ],
+      "SkillId": 0,
+      "PropertyNodeTitle": "攻击提升",
+      "PropertyNodeDescribe": "攻击提升{0}",
+      "PropertyNodeParam": [
+        "4.20%"
+      ],
+      "PropertyNodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredattack_UI.T_Iconpropertyredattack_UI",
+      "Property": [
+        {
+          "Id": 10007,
+          "Value": 0.041999999433755875,
+          "IsRatio": true
+        }
+      ],
+      "Consume": [
+        {
+          "Key": 43020014,
+          "Value": 3
+        },
+        {
+          "Key": 41100014,
+          "Value": 3
+        },
+        {
+          "Key": 41400124,
+          "Value": 1
+        },
+        {
+          "Key": 2,
+          "Value": 100000
+        }
+      ],
+      "UnLockCondition": 500007
+    },
+    {
+      "Id": 288,
+      "NodeIndex": 16,
+      "NodeGroup": 1604,
+      "ParentNodes": [
+        12
+      ],
+      "NodeType": 4,
+      "Coordinate": 2,
+      "Condition": [
+        1
+      ],
+      "SkillId": 0,
+      "PropertyNodeTitle": "湮灭伤害加成提升",
+      "PropertyNodeDescribe": "湮灭伤害加成提升{0}",
+      "PropertyNodeParam": [
+        "4.20%"
+      ],
+      "PropertyNodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyreddark_UI.T_Iconpropertyreddark_UI",
+      "Property": [
+        {
+          "Id": 27,
+          "Value": 420,
+          "IsRatio": false
+        }
+      ],
+      "Consume": [
+        {
+          "Key": 43020014,
+          "Value": 3
+        },
+        {
+          "Key": 41100014,
+          "Value": 3
+        },
+        {
+          "Key": 41400124,
+          "Value": 1
+        },
+        {
+          "Key": 2,
+          "Value": 100000
+        }
+      ],
+      "UnLockCondition": 500008
+    },
+    {
+      "Id": 281,
+      "NodeIndex": 9,
+      "NodeGroup": 1604,
+      "ParentNodes": [
+        1
+      ],
+      "NodeType": 4,
+      "Coordinate": 1,
+      "Condition": [
+        1
+      ],
+      "SkillId": 0,
+      "PropertyNodeTitle": "湮灭伤害加成提升",
+      "PropertyNodeDescribe": "湮灭伤害加成提升{0}",
+      "PropertyNodeParam": [
+        "1.80%"
+      ],
+      "PropertyNodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyreddark_UI.T_Iconpropertyreddark_UI",
+      "Property": [
+        {
+          "Id": 27,
+          "Value": 180,
+          "IsRatio": false
+        }
+      ],
+      "Consume": [
+        {
+          "Key": 43020013,
+          "Value": 3
+        },
+        {
+          "Key": 41100013,
+          "Value": 3
+        },
+        {
+          "Key": 2,
+          "Value": 50000
+        }
+      ],
+      "UnLockCondition": 500006
+    },
+    {
+      "Id": 282,
+      "NodeIndex": 10,
+      "NodeGroup": 1604,
+      "ParentNodes": [
+        2
+      ],
+      "NodeType": 4,
+      "Coordinate": 1,
+      "Condition": [
+        1
+      ],
+      "SkillId": 0,
+      "PropertyNodeTitle": "攻击提升",
+      "PropertyNodeDescribe": "攻击提升{0}",
+      "PropertyNodeParam": [
+        "1.80%"
+      ],
+      "PropertyNodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredattack_UI.T_Iconpropertyredattack_UI",
+      "Property": [
+        {
+          "Id": 10007,
+          "Value": 0.017999999225139618,
+          "IsRatio": true
+        }
+      ],
+      "Consume": [
+        {
+          "Key": 43020013,
+          "Value": 3
+        },
+        {
+          "Key": 41100013,
+          "Value": 3
+        },
+        {
+          "Key": 2,
+          "Value": 50000
+        }
+      ],
+      "UnLockCondition": 500005
+    },
+    {
+      "Id": 283,
+      "NodeIndex": 11,
+      "NodeGroup": 1604,
+      "ParentNodes": [
+        3
+      ],
+      "NodeType": 4,
+      "Coordinate": 1,
+      "Condition": [
+        1
+      ],
+      "SkillId": 0,
+      "PropertyNodeTitle": "攻击提升",
+      "PropertyNodeDescribe": "攻击提升{0}",
+      "PropertyNodeParam": [
+        "1.80%"
+      ],
+      "PropertyNodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredattack_UI.T_Iconpropertyredattack_UI",
+      "Property": [
+        {
+          "Id": 10007,
+          "Value": 0.017999999225139618,
+          "IsRatio": true
+        }
+      ],
+      "Consume": [
+        {
+          "Key": 43020013,
+          "Value": 3
+        },
+        {
+          "Key": 41100013,
+          "Value": 3
+        },
+        {
+          "Key": 2,
+          "Value": 50000
+        }
+      ],
+      "UnLockCondition": 500005
+    },
+    {
+      "Id": 284,
+      "NodeIndex": 12,
+      "NodeGroup": 1604,
+      "ParentNodes": [
+        6
+      ],
+      "NodeType": 4,
+      "Coordinate": 1,
+      "Condition": [
+        1
+      ],
+      "SkillId": 0,
+      "PropertyNodeTitle": "湮灭伤害加成提升",
+      "PropertyNodeDescribe": "湮灭伤害加成提升{0}",
+      "PropertyNodeParam": [
+        "1.80%"
+      ],
+      "PropertyNodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyreddark_UI.T_Iconpropertyreddark_UI",
+      "Property": [
+        {
+          "Id": 27,
+          "Value": 180,
+          "IsRatio": false
+        }
+      ],
+      "Consume": [
+        {
+          "Key": 43020013,
+          "Value": 3
+        },
+        {
+          "Key": 41100013,
+          "Value": 3
+        },
+        {
+          "Key": 2,
+          "Value": 50000
+        }
+      ],
+      "UnLockCondition": 500006
+    },
+    {
+      "Id": 285,
+      "NodeIndex": 13,
+      "NodeGroup": 1604,
+      "ParentNodes": [
+        9
+      ],
+      "NodeType": 4,
+      "Coordinate": 2,
+      "Condition": [
+        1
+      ],
+      "SkillId": 0,
+      "PropertyNodeTitle": "湮灭伤害加成提升",
+      "PropertyNodeDescribe": "湮灭伤害加成提升{0}",
+      "PropertyNodeParam": [
+        "4.20%"
+      ],
+      "PropertyNodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyreddark_UI.T_Iconpropertyreddark_UI",
+      "Property": [
+        {
+          "Id": 27,
+          "Value": 420,
+          "IsRatio": false
+        }
+      ],
+      "Consume": [
+        {
+          "Key": 43020014,
+          "Value": 3
+        },
+        {
+          "Key": 41100014,
+          "Value": 3
+        },
+        {
+          "Key": 41400124,
+          "Value": 1
+        },
+        {
+          "Key": 2,
+          "Value": 100000
+        }
+      ],
+      "UnLockCondition": 500008
+    },
+    {
+      "Id": 286,
+      "NodeIndex": 14,
+      "NodeGroup": 1604,
+      "ParentNodes": [
+        10
+      ],
+      "NodeType": 4,
+      "Coordinate": 2,
+      "Condition": [
+        1
+      ],
+      "SkillId": 0,
+      "PropertyNodeTitle": "攻击提升",
+      "PropertyNodeDescribe": "攻击提升{0}",
+      "PropertyNodeParam": [
+        "4.20%"
+      ],
+      "PropertyNodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredattack_UI.T_Iconpropertyredattack_UI",
+      "Property": [
+        {
+          "Id": 10007,
+          "Value": 0.041999999433755875,
+          "IsRatio": true
+        }
+      ],
+      "Consume": [
+        {
+          "Key": 43020014,
+          "Value": 3
+        },
+        {
+          "Key": 41100014,
+          "Value": 3
+        },
+        {
+          "Key": 41400124,
+          "Value": 1
+        },
+        {
+          "Key": 2,
+          "Value": 100000
+        }
+      ],
+      "UnLockCondition": 500007
+    }
+  ],
+  "resonant_chain_nodes": [
+    {
+      "Id": 103,
+      "GroupId": 1604,
+      "GroupIndex": 1,
+      "NodeType": 1,
+      "NodeIndex": "共鸣1-4",
+      "NodeName": "弦外知机",
+      "AttributesDescription": "共鸣技能伤害加成提升{0}。",
+      "BgDescription": "",
+      "BuffIds": [
+        1604004000
+      ],
+      "AddProp": [],
+      "ActivateConsume": [
+        {
+          "Key": 10001604,
+          "Value": 1
+        }
+      ],
+      "AttributesDescriptionParams": [
+        "30%"
+      ],
+      "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_ZhujueDarkM1_UI.T_IconDevice_ZhujueDarkM1_UI"
+    },
+    {
+      "Id": 104,
+      "GroupId": 1604,
+      "GroupIndex": 2,
+      "NodeType": 1,
+      "NodeIndex": "共鸣2-4",
+      "NodeName": "晦明如朔",
+      "AttributesDescription": "施放重击<color=Highlight>灭音</color>进入<color=Highlight><te href=850034>暗涌</te></color>状态时，重置共鸣技能的冷却时间。",
+      "BgDescription": "",
+      "BuffIds": [
+        1604005000
+      ],
+      "AddProp": [],
+      "ActivateConsume": [
+        {
+          "Key": 10001604,
+          "Value": 1
+        }
+      ],
+      "AttributesDescriptionParams": [],
+      "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_ZhujueDarkM2_UI.T_IconDevice_ZhujueDarkM2_UI"
+    },
+    {
+      "Id": 105,
+      "GroupId": 1604,
+      "GroupIndex": 3,
+      "NodeType": 1,
+      "NodeIndex": "共鸣3-4",
+      "NodeName": "声息涌动",
+      "AttributesDescription": "处于<color=Highlight><te href=850034>暗涌</te></color>状态时，<color=Highlight>第5段普攻</color>命中敌人时，可回复已损失生命值{0}的生命值。",
+      "BgDescription": "",
+      "BuffIds": [
+        1604006000
+      ],
+      "AddProp": [],
+      "ActivateConsume": [
+        {
+          "Key": 10001604,
+          "Value": 1
+        }
+      ],
+      "AttributesDescriptionParams": [
+        "10%"
+      ],
+      "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_ZhujueDarkM3_UI.T_IconDevice_ZhujueDarkM3_UI"
+    },
+    {
+      "Id": 106,
+      "GroupId": 1604,
+      "GroupIndex": 4,
+      "NodeType": 1,
+      "NodeIndex": "共鸣4-4",
+      "NodeName": "尘声湮灭",
+      "AttributesDescription": "重击<color=Highlight>灭音</color>、共鸣解放<color=Highlight>临渊死寂</color>命中目标时，目标的湮灭抗性降低{0}，持续{1}秒。",
+      "BgDescription": "",
+      "BuffIds": [
+        1604007000
+      ],
+      "AddProp": [],
+      "ActivateConsume": [
+        {
+          "Key": 10001604,
+          "Value": 1
+        }
+      ],
+      "AttributesDescriptionParams": [
+        "10%",
+        "20"
+      ],
+      "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_ZhujueDarkM4_UI.T_IconDevice_ZhujueDarkM4_UI"
+    },
+    {
+      "Id": 107,
+      "GroupId": 1604,
+      "GroupIndex": 5,
+      "NodeType": 1,
+      "NodeIndex": "共鸣5-4",
+      "NodeName": "万物寂听",
+      "AttributesDescription": "处于<color=Highlight><te href=850034>暗涌</te></color>状态时<color=Highlight>第5段普攻</color>可额外造成一次<color=Dark>湮灭伤害</color>，此次伤害为<color=Highlight>第5段普攻</color>伤害的{0}。",
+      "BgDescription": "",
+      "BuffIds": [
+        1604008000
+      ],
+      "AddProp": [],
+      "ActivateConsume": [
+        {
+          "Key": 10001604,
+          "Value": 1
+        }
+      ],
+      "AttributesDescriptionParams": [
+        "50%"
+      ],
+      "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_ZhujueDarkM5_UI.T_IconDevice_ZhujueDarkM5_UI"
+    },
+    {
+      "Id": 108,
+      "GroupId": 1604,
+      "GroupIndex": 6,
+      "NodeType": 1,
+      "NodeIndex": "共鸣6-4",
+      "NodeName": "暗涌潮升",
+      "AttributesDescription": "处于<color=Highlight><te href=850034>暗涌</te></color>状态时，漂泊者的暴击提升{0}。",
+      "BgDescription": "",
+      "BuffIds": [
+        1604009000
+      ],
+      "AddProp": [],
+      "ActivateConsume": [
+        {
+          "Key": 10001604,
+          "Value": 1
+        }
+      ],
+      "AttributesDescriptionParams": [
+        "25%"
+      ],
+      "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_ZhujueDarkM6_UI.T_IconDevice_ZhujueDarkM6_UI"
+    }
+  ],
+  "trial_role": {
+    "Id": 100326,
+    "GroupId": 100326,
+    "WorldLevel": 1,
+    "Gender": 1,
+    "OnlyTrial": false,
+    "HideTrialLabel": false,
+    "ParentId": 1605,
+    "Level": 1,
+    "ResonanceLevel": 0,
+    "UnlockSkillLevel": 1,
+    "UnlockSkillNodeList": [],
+    "RoleSkin": 0,
+    "TrailWeapon": 2,
+    "PhantomEquipList": []
+  }
+}

@@ -1,6 +1,6 @@
 [submodule "assets"]
 	path = assets
-	url = https://github.com/alt3ri/WW_Asset
+	url = git@github.com:alt3ri/WW_Asset.git
 [submodule "data"]
 	path = data
 	url = git@github.com:Arikatsu/WutheringWaves_Data.git
